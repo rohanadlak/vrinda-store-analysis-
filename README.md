@@ -1,28 +1,28 @@
-# vrinda-store-analysis- Report
+# Vrinda-store-analysis- report
 
-## Overall Data Analysis
-*AMAZON HAS THE HIGHEST SALE AND TOP 3 ONLINE PLATFORM ARE AMAZON, FLIPKART AND MYNTRA.																																		
-*THERE IS THE HIGHEST SALES IN MARCH.																																	
-*WOMEN HAVE THE HIGHEST CONTRIBUTION (64%) IN THE SALES OF THE COMPANY. 																																	
-*THE SALE OF THE COMPANY IS IN THE RIGHT WAY,  92% PRODUCT IS  DELIVERED.																																	
-*THE HIGHEST PRODUCT SOLD IS "SET"  AND THE LOWEST PRODUCT SOLD IS "BOTTOM".																															
-*TOP 5 STATE IN ACHIEVING SALES TARGET ARE UTTARPRADESH,TELANGANA,TAMIL NADU, MAHARASHTRA AND KARNATAKA.																																	
-*THE HIGHEST ORDER IS RECEIVED BY ADULT GROUP THAT IS 50% OF THE TOTAL ORDER, AND IN THIS ORDER WOMEN HAS 34% PART.																	
-*THE HIGHEST AMOUNT OF ORDER IS RECEIVED ON AMAZON.															   
-*NEW DELHI IS THE LOWEST U.T. WHERE THE SALES OF ONLY 8422 IS DONE.																	
+## Overall data analysis
+*Amazon has the highest sale and top 3 online platform are amazon, flipkart and myntra.																																		
+*There is the highest sales in march.																																	
+*Women have the highest contribution (64%) in the sales of the company. 																																	
+*The sale of the company is in the right way,  92% product is  delivered.																																	
+*The highest product sold is "set"  and the lowest product sold is "bottom".																															
+*Top 5 state in achieving sales target are uttarpradesh,telangana,tamil nadu, maharashtra and karnataka.																																
+*The highest order is received by adult group that is 50% of the total order, and in this order women has 34% part.																	
+*The highest amount of order is received on amazon.															   
+*New delhi is the lowest u.t. Where the sales of only 8422 is done.																	
 
-## Report of Maharashtra Data
-*IN MAHARASHTRA THE HIGHEST PRODUCT SOLD IS "SET" WHICH IS PURCHASED BY ADULT GROUP. ADULT GROUP HAS THE HIGHEST CONTRIBUTION AND THE LOWEST CONTRIBUTION IS OF SENIOR GROUP.																
-*THE HIGHEST ORDER IS RECEIVED IN MARCH AND ALSO THE HIGHEST SALE IS DONE IN MARCH, THE LOWEST ORDER IS RECEIVED IN DECEMBER.																
-THE TOP 5 MONTHS WHICH HAVE THE HIGHEST SALE ARE JAN,FEB,MAR,APR AND AUGUST.																
-THE HIGHEST SALE IS DONE ON AMAZON.																
+## Report of maharashtra data
+*In maharashtra the highest product sold is "set" which is purchased by adult group. Adult group has the highest contribution and the lowest contribution is of senior group.																
+*The highest order is received in march, the lowest order is received in december.																
+*The top 5 months which have the highest sale are jan,feb,mar,apr and august.																
+*The highest sale is done on amazon.																
 
 
-## Report of New Delhi Data
-*IN NEW DELHI THE HIGHEST AMOUNT OF PRODUCT IS PURCHASED BY TEENAGER GROUP																
-AND THE HIGHEST AMOUNT OF PRODUCT SOLD IS "SET" WHICH IS PURCHASED BY ADULT GROUP.																
-*THE HIGHEST AMOUNT OF ORDER RECEIVED IN NOVEMBER AND NOVEMBER IS THE MONTH IN WHICH SALE TARGET IS ACHIEVED																	
-*THERE IS THE HIGHEST SALE ON WINTER SEASON 																	
-*FLIPKART HAS THE HIGHEST ORDER RECEIVED IN THE MONTH OF DECEMBER.																	
+## Report of new Delhi data
+*In new Delhi the highest amount of product is purchased by teenager group																
+And the highest amount of product sold is "set" which is purchased by adult group.																
+*The highest amount of order received in november and november is the month in which sale target is achieved																	
+*There is the highest sale on winter season 																	
+*Flipkart has the highest order received in the month of december.																	
 
 
