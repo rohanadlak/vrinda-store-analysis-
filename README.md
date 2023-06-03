@@ -15,17 +15,23 @@
 *New delhi is the lowest u.t. Where the sales of only 8422 is done.																	
 
 ## Report of maharashtra data
-*In maharashtra the highest product sold is "set" which is purchased by adult group. Adult group has the highest contribution and the lowest contribution is of senior group.																
-*The highest order is received in march, the lowest order is received in december.																
-*The top 5 months which have the highest sale are jan,feb,mar,apr and august.																
+
+*In maharashtra the highest product sold is "set" which is purchased by adult group. Adult group has the highest contribution and the lowest contribution is of senior group.
+
+*The highest order is received in march, the lowest order is received in december.	
+
+*The top 5 months which have the highest sale are jan,feb,mar,apr and august.					
+
 *The highest sale is done on amazon.																
 
 
 ## Report of new Delhi data
 *In new Delhi the highest amount of product is purchased by teenager group																
-And the highest amount of product sold is "set" which is purchased by adult group.																
+And the highest amount of product sold is "set" which is purchased by adult group.		
+
 *The highest amount of order received in november and november is the month in which sale target is achieved																	
-*There is the highest sale on winter season 																	
+*There is the highest sale on winter season.
+
 *Flipkart has the highest order received in the month of december.																	
 
 
