@@ -1,14 +1,17 @@
 # Vrinda-store-analysis- report
 
 ## Overall data analysis
+
 *Amazon has the highest sale and top 3 online platform are amazon, flipkart and myntra.																																		
-*There is the highest sales in march.																																	
+*There is the highest sales in march.	
+
 *Women have the highest contribution (64%) in the sales of the company. 																																	
 *The sale of the company is in the right way,  92% product is  delivered.																																	
 *The highest product sold is "set"  and the lowest product sold is "bottom".																															
 *Top 5 state in achieving sales target are uttarpradesh,telangana,tamil nadu, maharashtra and karnataka.																																
 *The highest order is received by adult group that is 50% of the total order, and in this order women has 34% part.																	
-*The highest amount of order is received on amazon.															   
+*The highest amount of order is received on amazon.													
+
 *New delhi is the lowest u.t. Where the sales of only 8422 is done.																	
 
 ## Report of maharashtra data
